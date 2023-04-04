@@ -17,7 +17,7 @@ the website contain JavaScript and Node and has been pushed to github repostiry.
 
 ![Getting Started](./Screenshot%202023-04-03%20221324.png)
 
-## screencastify link
+## screenrecastify link
 
 https://drive.google.com/file/d/1EPeOdruoY869vT0Q2fuMz5cs0sjY1Rop/view
 
