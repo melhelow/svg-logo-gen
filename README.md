@@ -3,9 +3,9 @@ README
 
 ## Discription
 
-this is my 7th assignment and it was creating a logo generator
+this is my 8th assignment and it was creating a logo generator
 
-in this 7th assignment  i started my own code 
+in this 8th assignment i started my own code 
 
 -my motivation was to practice what i learned in the bootcamp untill April 3 2023
 
@@ -15,10 +15,11 @@ in this 7th assignment  i started my own code
 ## usage
 the website contain JavaScript and Node and has been pushed to github repostiry.
 
-![Getting Started](./develop/deployed-weather%20dashboard.png)
+![Getting Started](./Screenshot%202023-04-03%20221324.png)
 
 ## screencastify link
 
+https://drive.google.com/file/d/1EPeOdruoY869vT0Q2fuMz5cs0sjY1Rop/view
 
 
 ## github 
