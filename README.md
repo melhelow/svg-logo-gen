@@ -15,7 +15,7 @@ in this 8th assignment i started my own code
 ## usage
 the website contain JavaScript and Node and has been pushed to github repostiry.
 
-![Getting Started](./Screenshot%202023-04-03%20221324.png)
+![Getting Started](./Screenshot%202023-04-04%20134808.png)
 
 ## screenrecastify link
 
